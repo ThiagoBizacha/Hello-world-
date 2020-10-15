@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Meu curso HTML</title>
+	</head>
+	<body>
+		<p>Ola mundo!</p>
+		<p>Ola mundo2!</p>
+		<p>Meu curso de html <br/>
+		testando paragrafo
+		</p>
+	</body>
+</html>
